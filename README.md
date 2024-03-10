@@ -6,10 +6,10 @@
 - 😄 Pronomes: ela/dela
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlineNevesdeMelo&show_icons=true&theme=calm_pink" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AlineNevesdeMelo&show_icons=true&theme=calm_pink" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineNevesdeMelo&layout=compact&theme=calm_pink&langs_count=8&card_width=200" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineNevesdeMelo&layout=compact&theme=calm_pink&langs_count=8&card_width=150" />
 </a>
 
 ##
