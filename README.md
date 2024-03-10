@@ -1,19 +1,27 @@
-Olá! Eu sou a Aline Neves de Melo.
-- 👋 Hi, I’m @AlineNevesdeMelo
+## Olá! Eu sou a Aline Neves de Melo.
+
 - 👀 Sou professora de Matemática e Fisica
 - 🌱 Estou cursando o 1º semestre de Análise e Desenvolvimento de Sistemas na FATEC-Taquaritinga
 - 📫 Contate-me no e-mail: melo.neves.aline@gmail.com
 - 😄 Pronomes: ela/dela
-- ⚡ Fun fact: ...
+##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="!(https://github-readme-stats.vercel.app/api?username=AlineNevesdeMelo&show_icons=true&theme=calm_pink))" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlineNevesdeMelo&show_icons=true&theme=calm_pink" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineNevesdeMelo&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineNevesdeMelo&layout=compact&theme=calm_pink&langs_count=8&card_width=200" />
 </a>
 
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 
-<!---
-AlineNevesdeMelo/AlineNevesdeMelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+<div> 
+  <a href="https://www.youtube.com/@alinenevesdemelo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/alinenevesdemelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:melo.neves.aline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/alinenevesdemelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
