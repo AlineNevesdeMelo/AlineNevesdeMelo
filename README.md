@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Aline Neves de Melo.
 
+<img src="imagemperfil.jpg">
+
 - 👀 Sou professora de Matemática e Fisica
 - 🌱 Estou cursando o 1º semestre de Análise e Desenvolvimento de Sistemas na FATEC-Taquaritinga
 - 📫 Contate-me no e-mail: melo.neves.aline@gmail.com
