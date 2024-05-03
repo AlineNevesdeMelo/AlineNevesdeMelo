@@ -1,4 +1,4 @@
-## Olá! Eu sou a Aline Neves de Melo.
+## Seja bem-vindo(a) ao meu perfil!
 
 <img src="imagemperfil.jpg">
 
