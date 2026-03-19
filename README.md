@@ -3,7 +3,7 @@
 <img src="imagemperfil.jpg">
 
 - 👀 Sou professora de Matemática e Fisica
-- 🌱 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC-Taquaritinga
+- 🌱 Estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na FATEC-Taquaritinga
 - 📫 Contate-me no e-mail: melo.neves.aline@gmail.com
 - 😄 Pronomes: ela/dela
 ##
